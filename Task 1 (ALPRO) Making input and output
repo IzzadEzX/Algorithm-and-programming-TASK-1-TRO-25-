@@ -1,5 +1,0 @@
-print("Welcome to my program!")
-user_input = input("Please enter your name: ")
-print("Hello, " + user_input)
-user_input2 = int(input("How old are you?"))
-print("You are " + str(user_input2) + " Years old")
